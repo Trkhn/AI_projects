@@ -1,0 +1,8 @@
+{
+  "name": "DocuPulse - Studio PDF & Fiches d'Intervention",
+  "description": "Application confidentielle de documentation et génération instantanée de rapports PDF sans persistance ni stockage en base de données.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

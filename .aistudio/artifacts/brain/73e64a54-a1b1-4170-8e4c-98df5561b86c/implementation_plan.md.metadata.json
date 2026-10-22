@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan: simplified form fields (removed dossier ref, author, and organization), added mobile camera capture and gallery options, and integrated mobile-optimized card preview with fullscreen A4 sheet viewer.",
+  "updatedAt":  "2026-10-22T15:25:06.251779860Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
